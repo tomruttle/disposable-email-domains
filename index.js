@@ -1,0 +1,1 @@
+module.exports = require('./disposable_email_blacklist');
