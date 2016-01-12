@@ -1,6 +1,6 @@
 {
   "name": "disposable-email-domains",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "description": "Forked from martenson/disposable-email-domains and a package.json added",
   "repository": {
